@@ -1,0 +1,7 @@
+{
+  "name": "Gomata Aadhaar System",
+  "description": "An intelligent system to enroll and authenticate cattle using unique IDs, breed information, and image recognition, powered by AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
