@@ -1,0 +1,13 @@
+# Gomata Adhaar System - Requirements
+
+# This project uses only Python standard library
+# No external dependencies required!
+
+# Python Version: 3.6+
+
+# Optional: For enhanced testing
+# unittest (built-in)
+# json (built-in)
+# os (built-in)
+# datetime (built-in)
+# typing (built-in in Python 3.5+)
