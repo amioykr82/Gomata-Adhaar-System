@@ -5,6 +5,7 @@ Unit tests for the Gomata Adhaar System
 import unittest
 import os
 import json
+import tempfile
 from gomata_adhaar import GomataAdhaarSystem
 
 
@@ -13,7 +14,10 @@ class TestGomataAdhaarSystem(unittest.TestCase):
     
     def setUp(self):
         """Set up test database."""
-        self.test_db = "test_cattle_database.json"
+        # Use a temporary file for testing
+        self.temp_file = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.json')
+        self.test_db = self.temp_file.name
+        self.temp_file.close()
         self.system = GomataAdhaarSystem(self.test_db)
     
     def tearDown(self):

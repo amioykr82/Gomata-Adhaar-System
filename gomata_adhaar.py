@@ -171,16 +171,25 @@ class GomataAdhaarSystem:
     
     def save_database(self):
         """Save cattle records to JSON file."""
-        with open(self.database_file, 'w') as f:
-            json.dump(self.cattle_records, f, indent=2)
+        try:
+            with open(self.database_file, 'w') as f:
+                json.dump(self.cattle_records, f, indent=2)
+        except (PermissionError, IOError) as e:
+            print(f"Error saving database: {e}")
+            raise
     
     def load_database(self):
         """Load cattle records from JSON file."""
         if os.path.exists(self.database_file):
             try:
-                with open(self.database_file, 'r') as f:
-                    self.cattle_records = json.load(f)
-            except json.JSONDecodeError:
+                # Check if file is not empty before loading
+                if os.path.getsize(self.database_file) > 0:
+                    with open(self.database_file, 'r') as f:
+                        self.cattle_records = json.load(f)
+                else:
+                    self.cattle_records = {}
+            except (json.JSONDecodeError, PermissionError, IOError) as e:
+                print(f"Error loading database: {e}. Starting with empty database.")
                 self.cattle_records = {}
         else:
             self.cattle_records = {}
