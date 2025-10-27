@@ -1,9 +1,9 @@
 [
   {
-    "id": "s8843",
+    "id": "220880557667",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, recognized globally for its distinctive black and white markings and exceptional milk production. Originating from the northern provinces of the Netherlands and Germany, these large, docile cows are prized for their efficiency in converting feed into milk and their adaptability to diverse farming environments.",
+      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating in the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany. Renowned for their high milk production, they are easily recognizable by their distinctive black and white patched coats and large stature.",
       "confidence": 0.98
     },
     "images": [
@@ -14,14 +14,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8843. Valid images found: 6 (using: 1236.jpg)",
-    "enrollmentDate": "2025-10-27T08:00:19.692Z"
+    "notes": "Source folder: s8843 | Valid images: 6 | Used: 1236.jpg",
+    "enrollmentDate": "2025-10-27T09:13:39.929Z"
   },
   {
-    "id": "sn19",
+    "id": "405744123497",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the world's most widespread dairy breed, recognized by their distinctive black and white (or sometimes red and white) markings. Originating in the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Germany, they are celebrated for their exceptionally high milk production and adaptable nature, making them a cornerstone of the global dairy industry.",
+      "description": "Holstein Friesians are renowned globally as the highest-producing dairy cattle, easily identifiable by their distinctive black and white (or sometimes red and white) markings. Originating from the Dutch provinces of North Holland and Friesland, they are valued for their large stature, high milk yield, and adaptability to various climates, making them the most widespread dairy breed in the world.",
       "confidence": 0.95
     },
     "images": [
@@ -32,15 +32,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: sn19. Valid images found: 6 (using: 21462.jpg)",
-    "enrollmentDate": "2025-10-27T08:00:28.853Z"
+    "notes": "Source folder: sn19 | Valid images: 6 | Used: 21462.jpg",
+    "enrollmentDate": "2025-10-27T09:13:49.043Z"
   },
   {
-    "id": "s8819",
+    "id": "467178748847",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is a breed of dairy cattle originating from the Netherlands and Germany. Renowned for their high milk production, they are the world's most widespread dairy cattle breed. They are easily recognizable by their distinctive black and white patched markings, though red and white variations also exist. Holsteins are large, docile animals, bred for efficiency in milk production.",
-      "confidence": 0.95
+      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. Renowned for its exceptional milk production, this large-framed breed is easily recognizable by its distinctive black and white patched coat, though red and white variations also exist. Holsteins are highly efficient at converting feed into milk, making them a cornerstone of modern dairy farming globally.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -50,15 +50,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8819. Valid images found: 6 (using: Movie8819397.jpg)",
-    "enrollmentDate": "2025-10-27T08:00:36.996Z"
+    "notes": "Source folder: s8819 | Valid images: 6 | Used: Movie8819397.jpg",
+    "enrollmentDate": "2025-10-27T09:13:59.077Z"
   },
   {
-    "id": "s1903",
+    "id": "848121326632",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are globally recognized for their distinctive black and white markings and exceptional dairy production. Originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany, they are the world's highest-producing dairy animals, celebrated for their large milk yields and adaptability to various climates.",
-      "confidence": 0.78
+      "description": "Holstein Friesian cattle are the world's most widespread and highest-producing dairy breed, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. They are famously recognized by their distinctive black and white (or occasionally red and white) patched coats and large, robust build. Revered for their impressive milk yields, these docile cows are the foundation of dairy industries across the globe.",
+      "confidence": 0.85
     },
     "images": [
       {
@@ -68,14 +68,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1903. Valid images found: 6 (using: 7484.jpg)",
-    "enrollmentDate": "2025-10-27T08:00:47.030Z"
+    "notes": "Source folder: s1903 | Valid images: 6 | Used: 7484.jpg",
+    "enrollmentDate": "2025-10-27T09:14:09.933Z"
   },
   {
-    "id": "s5562",
+    "id": "663592156384",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is the world's highest-producing dairy animal, originating from the Netherlands. These large, distinctive black and white patterned cows are renowned for their impressive milk yield, making them the most widespread dairy breed globally. They are well-adapted to various climates and typically have a docile temperament.",
+      "description": "The Holstein Friesian is the world's highest-producing dairy animal, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Germany. They are easily recognized by their distinctive black and white (or sometimes red and white) patched coats and are celebrated for their large milk yields, making them the most common dairy breed globally.",
       "confidence": 0.98
     },
     "images": [
@@ -86,14 +86,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s5562. Valid images found: 6 (using: Movie5562193.jpg)",
-    "enrollmentDate": "2025-10-27T08:00:55.222Z"
+    "notes": "Source folder: s5562 | Valid images: 6 | Used: Movie5562193.jpg",
+    "enrollmentDate": "2025-10-27T09:14:19.479Z"
   },
   {
-    "id": "s1935",
+    "id": "888210715687",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, easily recognized by their distinctive black and white markings. Originating in the northern Netherlands and northern Germany, they are highly valued for their exceptional milk production capabilities, making them the backbone of dairy industries globally.",
+      "description": "Holstein Friesians are renowned worldwide as the highest-producing dairy cattle. Originating in the Netherlands, they are easily recognizable by their distinctive black and white (or sometimes red and white) patched coats. These large, docile cows are prized for their exceptional milk yield and are a dominant breed in the global dairy industry.",
       "confidence": 0.98
     },
     "images": [
@@ -104,15 +104,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1935. Valid images found: 6 (using: 128.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:03.562Z"
+    "notes": "Source folder: s1935 | Valid images: 6 | Used: 128.jpg",
+    "enrollmentDate": "2025-10-27T09:14:29.220Z"
   },
   {
-    "id": "s8816",
+    "id": "848007792548",
     "breedInfo": {
       "breed": "Guernsey",
-      "description": "The Guernsey is a medium-sized dairy breed known for its fawn or red and white coat, gentle disposition, and efficient production of high-quality milk. Originating from the Isle of Guernsey in the Channel Islands, they are particularly renowned for their rich, golden-colored milk, which is high in butterfat, protein, and beta-carotene.",
-      "confidence": 0.9
+      "description": "Guernsey cattle are a breed of dairy cattle originating from the island of Guernsey in the Channel Islands. They are renowned for their production of rich, high-butterfat, high-protein milk, which often has a distinctive golden color due to its high beta-carotene content. Guernseys are typically fawn or red-and-white in color, medium-sized, and known for their docile temperament and efficiency in converting feed to milk.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -122,15 +122,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8816. Valid images found: 4 (using: IMG_641311.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:20.005Z"
+    "notes": "Source folder: s8816 | Valid images: 4 | Used: IMG_641311.jpg",
+    "enrollmentDate": "2025-10-27T09:14:41.767Z"
   },
   {
-    "id": "sn20",
+    "id": "357436184196",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating from the provinces of North Holland and Friesland in the Netherlands. They are easily recognized by their distinctive black and white markings and are renowned for their exceptional milk production capabilities, making them the highest-producing dairy animals globally.",
-      "confidence": 0.85
+      "description": "Holstein Friesians are the world's highest-producing dairy cattle, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. They are easily recognizable by their distinctive black and white (or sometimes red and white) patched coats. Renowned for their milk yield, they are typically large, well-muscled animals known for their placid temperament.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -140,14 +140,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: sn20. Valid images found: 6 (using: 868.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:28.897Z"
+    "notes": "Source folder: sn20 | Valid images: 6 | Used: 868.jpg",
+    "enrollmentDate": "2025-10-27T09:14:51.045Z"
   },
   {
-    "id": "sn1125",
+    "id": "211169109590",
     "breedInfo": {
       "breed": "Jersey",
-      "description": "Jersey cattle are a small dairy breed originating from Jersey Island in the English Channel. They are renowned for their high-quality milk, which is rich in butterfat and protein. Typically fawn to dark brown in color, they often have a dished face, prominent eyes, and can display a distinctive white V-shaped marking on their forehead.",
+      "description": "Jersey cattle are a small dairy breed renowned for their high-quality milk, which is particularly rich in butterfat and protein. Originating from the Channel Island of Jersey, they are typically fawn to dark brown in color, often with a darker muzzle and a dished face, and are known for their docile temperament and efficient grazing abilities.",
       "confidence": 0.95
     },
     "images": [
@@ -158,14 +158,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: sn1125. Valid images found: 6 (using: IMG_6415104.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:38.231Z"
+    "notes": "Source folder: sn1125 | Valid images: 6 | Used: IMG_6415104.jpg",
+    "enrollmentDate": "2025-10-27T09:15:00.005Z"
   },
   {
-    "id": "s1641",
+    "id": "370999702592",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. Renowned for their high milk production, they are easily recognized by their distinctive black and white (or sometimes red and white) patched coats. These large, docile cows are a cornerstone of the global dairy industry.",
+      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. Renowned for their high milk production, they are easily recognizable by their distinctive black and white patched coats.",
       "confidence": 0.95
     },
     "images": [
@@ -176,15 +176,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1641. Valid images found: 6 (using: 2882.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:46.034Z"
+    "notes": "Source folder: s1641 | Valid images: 6 | Used: 2882.jpg",
+    "enrollmentDate": "2025-10-27T09:15:11.886Z"
   },
   {
-    "id": "s1877",
+    "id": "888731060218",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is the world's highest-producing dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany. They are easily recognizable by their distinctive black and white markings and are prized globally for their impressive milk yields.",
-      "confidence": 0.98
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Germany. They are renowned for their high milk production, typically characterized by distinctive black and white (or sometimes red and white) markings.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -194,15 +194,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1877. Valid images found: 5 (using: 128.jpg)",
-    "enrollmentDate": "2025-10-27T08:01:53.898Z"
+    "notes": "Source folder: s1877 | Valid images: 5 | Used: 128.jpg",
+    "enrollmentDate": "2025-10-27T09:15:21.102Z"
   },
   {
-    "id": "s1870",
+    "id": "697572777377",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are a widely recognized dairy breed, originating from the Netherlands. They are distinguished by their prominent black and white markings and are celebrated globally for being the highest-producing dairy cattle, yielding large quantities of milk.",
-      "confidence": 0.95
+      "description": "Holstein Friesian cattle are the world's highest-producing dairy animals, renowned for their distinctive black and white (or sometimes red and white) patched coats. Originating in the Netherlands, these large, docile cows are prized globally for their exceptional milk yield, making them the most common dairy breed in many countries.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -212,15 +212,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1870. Valid images found: 6 (using: 188.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:03.966Z"
+    "notes": "Source folder: s1870 | Valid images: 6 | Used: 188.jpg",
+    "enrollmentDate": "2025-10-27T09:15:30.932Z"
   },
   {
-    "id": "s1607",
+    "id": "329305325806",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the world's highest-producing dairy cattle, recognized by their distinctive black and white (or sometimes red and white) markings. Originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany, they were selectively bred for milk production over centuries. They are known for their large size, docile temperament, and ability to adapt to a wide range of climates.",
-      "confidence": 0.98
+      "description": "Holstein Friesian cattle are globally recognized as the highest-producing dairy animals, distinguished by their prominent black and white markings, although red and white variations also exist. Originating from regions in the Netherlands and Germany, these large, robust, and adaptable cows are the most prevalent dairy breed worldwide, prized for their exceptional milk yield.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -230,15 +230,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1607. Valid images found: 6 (using: 638.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:12.534Z"
+    "notes": "Source folder: s1607 | Valid images: 6 | Used: 638.jpg",
+    "enrollmentDate": "2025-10-27T09:15:41.380Z"
   },
   {
-    "id": "sn1761",
+    "id": "757001219656",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cows are renowned globally as the highest-producing dairy breed. Originating in the Netherlands, they are characterized by their distinctive black and white patched coats and large stature, making them easily recognizable. These cattle are primarily valued for their impressive milk yield, which forms the backbone of the dairy industry worldwide.",
-      "confidence": 0.85
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, renowned for their distinctive black and white (or sometimes red and white) markings and exceptional milk production. Originating in the northern provinces of North Holland and Friesland in the Netherlands, these large-framed cows are highly efficient converters of feed into milk, making them a cornerstone of the global dairy industry.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -248,15 +248,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: sn1761. Valid images found: 6 (using: 364.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:21.638Z"
+    "notes": "Source folder: sn1761 | Valid images: 6 | Used: 364.jpg",
+    "enrollmentDate": "2025-10-27T09:15:50.079Z"
   },
   {
-    "id": "s1854",
+    "id": "213571638509",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the most prevalent dairy cattle breed globally, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. They are celebrated for their exceptional milk production, distinctive black and white (or sometimes red and white) patched coats, and large, robust frames, making them easily recognizable.",
-      "confidence": 0.95
+      "description": "Holstein Friesians are the world's highest-producing dairy animals, known for their distinctive black and white (or sometimes red and white) markings. Originating in the northern provinces of the Netherlands, these large-framed cows are prized globally for their impressive milk yields and adaptability to various climates and management systems.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -266,15 +266,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1854. Valid images found: 6 (using: Movie1854188.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:30.763Z"
+    "notes": "Source folder: s1854 | Valid images: 6 | Used: Movie1854188.jpg",
+    "enrollmentDate": "2025-10-27T09:15:59.398Z"
   },
   {
-    "id": "s1853",
+    "id": "824133516123",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. Known for their distinctive black and white (or sometimes red and white) markings, these large, high-producing cows are celebrated for their exceptional milk yield, making them the backbone of dairy farming globally.",
-      "confidence": 0.98
+      "description": "Holstein Friesians are renowned for being the world's highest-producing dairy cattle. Originating in the Netherlands, these large, distinctive black and white cows are celebrated for their exceptional milk yield and adaptability to various climates and management systems.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -284,15 +284,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1853. Valid images found: 6 (using: Movie185316.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:38.751Z"
+    "notes": "Source folder: s1853 | Valid images: 6 | Used: Movie185316.jpg",
+    "enrollmentDate": "2025-10-27T09:16:08.455Z"
   },
   {
-    "id": "s1896",
+    "id": "630130296187",
     "breedInfo": {
       "breed": "Jersey",
-      "description": "The Jersey cow is a small breed of dairy cattle originating from Jersey Island in the British Channel Islands. Known for their distinctive light brown to fawn coloration, dark face, and large, expressive eyes, they are highly valued for producing milk with a high butterfat and protein content. Jerseys are also appreciated for their docile temperament, efficiency in converting feed to milk, and adaptability to various climates.",
-      "confidence": 0.98
+      "description": "Jersey cattle are a small dairy breed originating from Jersey, a British island in the English Channel. They are renowned for producing high-quality milk with higher butterfat and protein content compared to other breeds, making them highly desirable for cheese and butter production. Jerseys are known for their docile temperament, efficiency in feed conversion, and adaptability to various climates. They typically have a fawn or light brown coat, often with a darker face and muzzle, and distinctive large eyes.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -302,14 +302,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1896. Valid images found: 6 (using: 598.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:47.411Z"
+    "notes": "Source folder: s1896 | Valid images: 6 | Used: 598.jpg",
+    "enrollmentDate": "2025-10-27T09:16:18.758Z"
   },
   {
-    "id": "s114",
+    "id": "855119207743",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide as the highest-producing dairy cattle. Originating from the Netherlands and Germany, they are distinguished by their prominent black and white markings, large size, and exceptional milk yield, making them the most common dairy breed globally.",
+      "description": "Holstein Friesians are a dairy cattle breed originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. They are renowned worldwide for their exceptionally high milk production and are easily recognizable by their distinctive black and white patched coats. They are the most widespread dairy breed globally, valued for their adaptability and productivity.",
       "confidence": 0.95
     },
     "images": [
@@ -320,14 +320,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s114. Valid images found: 6 (using: 1386.jpg)",
-    "enrollmentDate": "2025-10-27T08:02:56.030Z"
+    "notes": "Source folder: s114 | Valid images: 6 | Used: 1386.jpg",
+    "enrollmentDate": "2025-10-27T09:16:29.403Z"
   },
   {
-    "id": "s1774",
+    "id": "573604296480",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide as the highest producing dairy cattle. Originating from the Netherlands, they are characterized by their distinctive black and white (or sometimes red and white) markings and large size. They are prized for their exceptional milk yield and adaptability to various climates, making them a dominant breed in the global dairy industry.",
+      "description": "Holstein Friesians are the world's highest-producing dairy cattle, renowned for their large milk yield. Originating from the Netherlands and Germany, they are characterized by their distinctive black and white (or red and white) patched coats and large frames, making them easily recognizable in dairy farms globally.",
       "confidence": 0.95
     },
     "images": [
@@ -338,14 +338,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1774. Valid images found: 6 (using: 274.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:04.247Z"
+    "notes": "Source folder: s1774 | Valid images: 6 | Used: 274.jpg",
+    "enrollmentDate": "2025-10-27T09:16:40.563Z"
   },
   {
-    "id": "s8803",
+    "id": "643424559256",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are globally recognized as the leading dairy breed, originating from the provinces of North Holland and Friesland in the Netherlands. They are distinguished by their striking black and white coat patterns and are celebrated for their remarkable milk production, making them the backbone of dairy farming worldwide.",
+      "description": "Holstein Friesians are the world's most widespread and highest-producing dairy cattle, easily recognized by their distinctive black and white (or sometimes red and white) patched coats. Originating from the provinces of North Holland and Friesland in the Netherlands and Schleswig-Holstein in Germany, they are prized globally for their impressive milk production and large, sturdy build.",
       "confidence": 0.98
     },
     "images": [
@@ -356,14 +356,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8803. Valid images found: 6 (using: IMG_641438.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:12.952Z"
+    "notes": "Source folder: s8803 | Valid images: 6 | Used: IMG_641438.jpg",
+    "enrollmentDate": "2025-10-27T09:16:49.779Z"
   },
   {
-    "id": "s8804",
+    "id": "511042912623",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the most widespread dairy breed globally, easily recognized by their distinctive black and white (or sometimes red and white) patched coats. Originating in the northern parts of the Netherlands and Germany, they are highly valued for their exceptional milk production, large size, and generally docile temperament, making them a cornerstone of the dairy industry worldwide.",
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, renowned for their exceptional milk production. Originating in the Netherlands, these large, distinctive black and white patterned cows are known for their docile temperament and high feed efficiency, making them a cornerstone of modern dairy farming globally.",
       "confidence": 0.98
     },
     "images": [
@@ -374,14 +374,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8804. Valid images found: 6 (using: Movie88041201.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:21.350Z"
+    "notes": "Source folder: s8804 | Valid images: 6 | Used: Movie88041201.jpg",
+    "enrollmentDate": "2025-10-27T09:16:58.952Z"
   },
   {
-    "id": "s8832",
+    "id": "650028290927",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are a prominent dairy breed known for their distinctive black and white markings and exceptional milk production capabilities. Originating in the northern provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in northern Germany, they are the most widespread dairy breed globally, prized for their large size and adaptability to various climates.",
+      "description": "Holstein Friesians are widely recognized as the world's highest-producing dairy cattle, originating from the provinces of North Holland and Friesland in the Netherlands and Schleswig-Holstein in Germany. They are distinguished by their prominent black and white markings and are prized for their exceptional milk production.",
       "confidence": 0.98
     },
     "images": [
@@ -392,16 +392,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8832. Valid images found: 6 (using: MyMovie88131052.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:29.512Z"
+    "notes": "Source folder: s8832 | Valid images: 6 | Used: MyMovie88131052.jpg",
+    "enrollmentDate": "2025-10-27T09:17:08.107Z"
   },
   {
-    "id": "s8835",
+    "id": "467012053216",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide as the highest-producing dairy cattle. Originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Germany, they are easily recognizable by their distinctive black and white patched coats, often featuring a prominent white blaze on the forehead. These large, adaptable cows are prized for their exceptional milk yield and have been selectively bred over centuries for their dairy characteristics.",
-      "confidence": 0.9,
-      "error": ""
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. Renowned for their exceptional milk production, they are large, distinctive animals typically characterized by their black and white markings, although red and white variations also exist. The prominent white blaze on the forehead is a common feature of the breed.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -411,15 +410,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8835. Valid images found: 6 (using: 4403.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:38.550Z"
+    "notes": "Source folder: s8835 | Valid images: 6 | Used: 4403.jpg",
+    "enrollmentDate": "2025-10-27T09:17:17.809Z"
   },
   {
-    "id": "s1918",
+    "id": "512346009071",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide for their exceptional dairy production, being the most common breed of dairy cattle. Originating from the northern provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany, they are characterized by their large size and distinctive black and white (or sometimes red and white) markings.",
-      "confidence": 0.95
+      "description": "Holstein Friesians are the world's highest-producing dairy cattle, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in northern Germany. They are easily recognizable by their distinctive black and white (or sometimes red and white) patched coats and large size, bred primarily for their exceptional milk production capabilities.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -429,14 +428,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1918. Valid images found: 4 (using: IMG_6439122.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:48.514Z"
+    "notes": "Source folder: s1918 | Valid images: 4 | Used: IMG_6439122.jpg",
+    "enrollmentDate": "2025-10-27T09:17:26.950Z"
   },
   {
-    "id": "s1547",
+    "id": "643514263739",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Northern Germany. Renowned for their distinctive black and white markings (though red and white variations exist) and their exceptional milk production, they are the highest producing dairy animals globally, contributing significantly to the dairy industry.",
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, known for their distinctive black and white markings and exceptional milk production. Originating in the northern provinces of the Netherlands and Germany, they are large, docile animals that have been selectively bred over centuries to become high-yielding dairy cows, producing large quantities of milk with moderate butterfat and protein content.",
       "confidence": 0.95
     },
     "images": [
@@ -447,14 +446,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1547. Valid images found: 6 (using: 1480.jpg)",
-    "enrollmentDate": "2025-10-27T08:03:56.676Z"
+    "notes": "Source folder: s1547 | Valid images: 6 | Used: 1480.jpg",
+    "enrollmentDate": "2025-10-27T09:17:36.881Z"
   },
   {
-    "id": "s8813",
+    "id": "597959966753",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are a prominent breed of dairy cattle originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Northern Germany. They are globally recognized for their exceptional milk production capabilities and are characterized by their distinctive black and white patched coats, though red and white varieties also exist. They are typically large, robust animals, highly valued in the dairy industry.",
+      "description": "Holstein Friesians are the world's highest-producing dairy cattle, renowned for their distinctive black and white (or sometimes red and white) patchy coats. Originating from the northern provinces of the Netherlands and Germany, they are large, robust animals known for their exceptional milk yield and adaptability to various climates.",
       "confidence": 0.95
     },
     "images": [
@@ -465,15 +464,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s8813. Valid images found: 6 (using: MyMovie8813199.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:05.106Z"
+    "notes": "Source folder: s8813 | Valid images: 6 | Used: MyMovie8813199.jpg",
+    "enrollmentDate": "2025-10-27T09:17:46.406Z"
   },
   {
-    "id": "sn13",
+    "id": "602304268060",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the world's highest-producing dairy animals, renowned for their distinctive black and white markings and large size. Originating in the northern provinces of the Netherlands, these highly adaptable cows are prized globally for their exceptional milk yield, making them the most common dairy breed worldwide. They are characterized by their dominant black and white coloration, though red and white variations also exist.",
-      "confidence": 0.98
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, easily recognizable by their distinctive black and white patched coats. Originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany, they are renowned for their outstanding milk production capabilities, making them the backbone of many dairy industries globally.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -483,14 +482,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: sn13. Valid images found: 6 (using: 576.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:13.211Z"
+    "notes": "Source folder: sn13 | Valid images: 6 | Used: 576.jpg",
+    "enrollmentDate": "2025-10-27T09:17:55.934Z"
   },
   {
-    "id": "s1557",
+    "id": "266884025157",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are a dominant dairy cattle breed renowned for their exceptional milk production. Originating in the Netherlands, they are easily recognizable by their distinctive black and white patched coats. They are the most widespread dairy breed globally, valued for their adaptability and efficient milk conversion.",
+      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, known for its distinctive black and white (or sometimes red and white) markings and exceptional milk production. Originating in the northern provinces of the Netherlands and in Schleswig-Holstein, Germany, these large, docile cows are prized globally for their ability to produce large quantities of milk with high butterfat and protein content.",
       "confidence": 0.98
     },
     "images": [
@@ -501,14 +500,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1557. Valid images found: 6 (using: 1186.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:22.378Z"
+    "notes": "Source folder: s1557 | Valid images: 6 | Used: 1186.jpg",
+    "enrollmentDate": "2025-10-27T09:18:05.251Z"
   },
   {
-    "id": "s1906",
+    "id": "815270775398",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "The Holstein Friesian, originating from the Netherlands, is the world's most widespread dairy cattle breed, easily recognized by its distinctive black and white (or sometimes red and white) patched coat. Renowned for its exceptional milk production, this large and robust breed forms the backbone of the dairy industry globally, valued for both quantity and quality of milk.",
+      "description": "Holstein Friesian cattle, originating from the Netherlands, are the world's most widespread dairy breed. They are easily recognizable by their distinctive black and white patched coats and are celebrated for their exceptional milk production capabilities, making them a cornerstone of the global dairy industry.",
       "confidence": 0.98
     },
     "images": [
@@ -519,33 +518,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1906. Valid images found: 6 (using: MyMovie1906106.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:32.233Z"
+    "notes": "Source folder: s1906 | Valid images: 6 | Used: MyMovie1906106.jpg",
+    "enrollmentDate": "2025-10-27T09:18:15.446Z"
   },
   {
-    "id": "s1706",
+    "id": "346926094178",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are widely recognized dairy cattle, famed for their exceptional milk production. Originating from the Dutch provinces of North Holland and Friesland, they are characterized by their large size and distinctive black and white markings.",
-      "confidence": 0.65
-    },
-    "images": [
-      {
-        "base64": "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",
-        "mimeType": "image/jpeg"
-      }
-    ],
-    "location": null,
-    "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1706. Valid images found: 6 (using: 1554.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:42.903Z"
-  },
-  {
-    "id": "s1556",
-    "breedInfo": {
-      "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating in the northern provinces of Friesland and North Holland in the Netherlands, and Schleswig-Holstein in Germany. They are renowned for their striking black and white (or sometimes red and white) patched coats and their exceptional milk production capabilities, making them the dominant dairy breed in many countries globally.",
-      "confidence": 0.95
+      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in northern Germany. Renowned for their distinctive black and white markings, these large, high-producing cows are primarily valued for their exceptional milk yield, making them the backbone of dairy farming globally.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -555,15 +536,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1556. Valid images found: 6 (using: 2658.jpg)",
-    "enrollmentDate": "2025-10-27T08:04:52.995Z"
+    "notes": "Source folder: s1556 | Valid images: 6 | Used: 2658.jpg",
+    "enrollmentDate": "2025-10-27T09:18:35.995Z"
   },
   {
-    "id": "s1797",
+    "id": "381088025498",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide as the most prevalent dairy cattle breed, known for their distinctive black and white (or sometimes red and white) markings. Originating in the northern provinces of the Netherlands, Friesland, and North Holland, and what is now Schleswig-Holstein in Germany, these large-framed cows are celebrated for their exceptional milk production, making them the backbone of the global dairy industry.",
-      "confidence": 0.98
+      "description": "Holstein Friesians are renowned worldwide as the highest-producing dairy cattle, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. They are easily recognizable by their distinctive black and white patched coats and are highly valued for their exceptional milk production capabilities.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -573,15 +554,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1797. Valid images found: 6 (using: MyMoviecopy102.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:01.188Z"
+    "notes": "Source folder: s1797 | Valid images: 6 | Used: MyMoviecopy102.jpg",
+    "enrollmentDate": "2025-10-27T09:18:45.392Z"
   },
   {
-    "id": "s1843",
+    "id": "203278658204",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are a globally recognized breed of dairy cattle, known for their distinctive black and white (or sometimes red and white) markings. Originating in the Netherlands, they are prized for their exceptional milk production, making them the world's highest-producing dairy animals.",
-      "confidence": 0.98
+      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating in the Netherlands. They are easily recognized by their distinctive black and white (or sometimes red and white) patched coats and are celebrated for their exceptional milk production, making them the backbone of the global dairy industry.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -591,14 +572,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1843. Valid images found: 6 (using: MyMovie88481012.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:09.076Z"
+    "notes": "Source folder: s1843 | Valid images: 6 | Used: MyMovie88481012.jpg",
+    "enrollmentDate": "2025-10-27T09:18:54.604Z"
   },
   {
-    "id": "s1805",
+    "id": "802123716237",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in Germany. They are renowned for their outstanding milk production, recognizable by their distinctive black and white markings, although red and white variations also exist. These large, robust cattle are known for their efficiency in converting feed into milk.",
+      "description": "Holstein Friesians are renowned worldwide as the most prevalent dairy cattle breed, known for their distinctive black and white (or sometimes red and white) markings and exceptional milk production capabilities. Originating from the northern provinces of the Netherlands and Germany, they are characterized by their large size, docile temperament, and ability to thrive in various climates, making them a cornerstone of the global dairy industry.",
       "confidence": 0.95
     },
     "images": [
@@ -609,15 +590,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1805. Valid images found: 6 (using: 80042.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:16.492Z"
+    "notes": "Source folder: s1805 | Valid images: 6 | Used: 80042.jpg",
+    "enrollmentDate": "2025-10-27T09:19:04.232Z"
   },
   {
-    "id": "s7704",
+    "id": "623458540473",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned worldwide as the most prevalent dairy cattle breed, known for their exceptional milk production. Originating in the provinces of North Holland and Friesland in the Netherlands, these large, distinctive black-and-white (or sometimes red-and-white) patterned cows are highly adaptable and efficient milk producers, making them a cornerstone of the global dairy industry.",
-      "confidence": 0.92
+      "description": "The Holstein Friesian is the world's most widespread dairy cattle breed, renowned for its outstanding milk production. Originating in the northern provinces of Friesland and North Holland in the Netherlands, these large, distinctive black-and-white (or sometimes red-and-white) cows are prized globally for their efficiency in converting feed into high volumes of milk.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -627,15 +608,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s7704. Valid images found: 6 (using: Movie880411.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:25.979Z"
+    "notes": "Source folder: s7704 | Valid images: 6 | Used: Movie880411.jpg",
+    "enrollmentDate": "2025-10-27T09:19:13.314Z"
   },
   {
-    "id": "s2011",
+    "id": "743951290585",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned globally as the highest-producing dairy cattle breed. Originating from the northern regions of the Netherlands and Germany, they are easily recognizable by their distinctive black-and-white (or less commonly, red-and-white) patched coats. These large, robust cows are prized for their prolific milk production and their ability to adapt to diverse environments across the world, making them a cornerstone of the dairy industry.",
-      "confidence": 0.95
+      "description": "Holstein Friesian cattle are the world's most widespread dairy cattle breed, originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany. They are renowned for their outstanding milk production, distinctive black and white (or sometimes red and white) markings, and large size. These highly efficient milk producers are adaptable to a wide range of climates and management systems.",
+      "confidence": 0.98
     },
     "images": [
       {
@@ -645,14 +626,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s2011. Valid images found: 6 (using: 4038.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:35.938Z"
+    "notes": "Source folder: s2011 | Valid images: 6 | Used: 4038.jpg",
+    "enrollmentDate": "2025-10-27T09:19:22.676Z"
   },
   {
-    "id": "s1804",
+    "id": "686430693717",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating in the Netherlands. They are easily recognized by their distinctive black and white markings and are renowned for their exceptional milk production capabilities, making them a cornerstone of the global dairy industry.",
+      "description": "Holstein Friesians are renowned worldwide as the highest producing dairy cattle. Originating from the northern provinces of Friesland and North Holland in the Netherlands, they are easily recognizable by their distinctive black and white (or sometimes red and white) patched coats. These large, robust cows are prized for their exceptional milk yield and adaptability to various climates.",
       "confidence": 0.95
     },
     "images": [
@@ -663,14 +644,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1804. Valid images found: 6 (using: MyMovie8848170.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:43.725Z"
+    "notes": "Source folder: s1804 | Valid images: 6 | Used: MyMovie8848170.jpg",
+    "enrollmentDate": "2025-10-27T09:19:32.288Z"
   },
   {
-    "id": "s1868",
+    "id": "750101182191",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are widely recognized as the world's highest-producing dairy cattle, originating from the northern regions of the Netherlands and Germany. They are known for their distinctive black and white patchy coats, though some are red and white. This breed is celebrated for its exceptional milk production capabilities, making it the most dominant dairy breed across the globe.",
+      "description": "Holstein Friesians are a prominent dairy cattle breed originating from the Dutch provinces of North Holland and Friesland, and Schleswig-Holstein in northern Germany. Recognized globally for their distinctive black and white (or occasionally red and white) patched coats, they are the world's highest production dairy animals, famed for their large milk yields.",
       "confidence": 0.98
     },
     "images": [
@@ -681,14 +662,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1868. Valid images found: 6 (using: 158.jpg)",
-    "enrollmentDate": "2025-10-27T08:05:53.162Z"
+    "notes": "Source folder: s1868 | Valid images: 6 | Used: 158.jpg",
+    "enrollmentDate": "2025-10-27T09:19:41.914Z"
   },
   {
-    "id": "s1914",
+    "id": "527275572987",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesians are renowned globally as the highest-producing dairy cattle breed, easily identified by their distinctive black and white (or occasionally red and white) patched coats. Originating from the northern provinces of the Netherlands and Germany, these large, robust cows are celebrated for their exceptional milk yield and adaptability, making them a cornerstone of the dairy industry worldwide.",
+      "description": "Holstein Friesian cattle are the world's highest-producing dairy animals, renowned for their large milk yields. Originating in the Netherlands, they are easily recognizable by their distinctive black and white (or sometimes red and white) patched coats. They are large, robust animals known for their docile temperament, making them ideal for modern dairy farming operations globally.",
       "confidence": 0.98
     },
     "images": [
@@ -699,14 +680,14 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1914. Valid images found: 6 (using: 102.jpg)",
-    "enrollmentDate": "2025-10-27T08:06:02.013Z"
+    "notes": "Source folder: s1914 | Valid images: 6 | Used: 102.jpg",
+    "enrollmentDate": "2025-10-27T09:19:52.601Z"
   },
   {
-    "id": "s377",
+    "id": "335626286046",
     "breedInfo": {
       "breed": "Jersey",
-      "description": "Jersey cattle originated on the island of Jersey in the British Channel Islands and are renowned for their high-quality milk, which is rich in butterfat and protein. They are a smaller dairy breed, typically fawn or light brown in color, often with a darker face and a distinctive lighter ring around their muzzle, as well as a prominent dished forehead.",
+      "description": "Jersey cattle are a small dairy breed originating from Jersey, one of the Channel Islands. They are highly prized for their rich milk, which has a significantly higher butterfat and protein content compared to other dairy breeds. Typically, Jerseys have a fawn coloration that can range from light brown to a darker reddish-brown, often featuring a darker face and a distinct light band around the muzzle. They are also known for their docile nature and efficient feed conversion.",
       "confidence": 0.95
     },
     "images": [
@@ -717,15 +698,15 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s377. Valid images found: 6 (using: 114.jpg)",
-    "enrollmentDate": "2025-10-27T08:06:13.126Z"
+    "notes": "Source folder: s377 | Valid images: 6 | Used: 114.jpg",
+    "enrollmentDate": "2025-10-27T09:20:02.496Z"
   },
   {
-    "id": "s1778",
+    "id": "396338175164",
     "breedInfo": {
       "breed": "Holstein Friesian",
-      "description": "Holstein Friesian cattle are the world's most widespread dairy cattle breed, known for their distinctive black and white (or sometimes red and white) markings and their exceptional milk production capabilities. Originating in the northern provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in northern Germany, they are highly valued for their efficiency in converting feed into milk and their adaptability to various climates.",
-      "confidence": 0.98
+      "description": "Holstein Friesian cattle are the world's most widespread dairy breed, originating from the provinces of North Holland and Friesland in the Netherlands, and Schleswig-Holstein in Germany. They are renowned for their distinctive black and white markings and exceptional milk production capabilities, making them the dominant dairy breed globally.",
+      "confidence": 0.95
     },
     "images": [
       {
@@ -735,7 +716,7 @@
     ],
     "location": null,
     "locationName": "Bulk Upload",
-    "notes": "Enrolled via bulk upload from folder: s1778. Valid images found: 6 (using: 1146.jpg)",
-    "enrollmentDate": "2025-10-27T08:06:21.983Z"
+    "notes": "Source folder: s1778 | Valid images: 6 | Used: 1146.jpg",
+    "enrollmentDate": "2025-10-27T09:20:12.839Z"
   }
 ]
